@@ -14,6 +14,7 @@
 {
 
     int a;
+    int b;
 }
 
 @end
